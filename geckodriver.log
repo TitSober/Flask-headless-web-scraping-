@@ -1,0 +1,468 @@
+1643487514023	geckodriver	INFO	Listening on 127.0.0.1:57021
+1643487517074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57022" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofile9XvEHV"
+1643487517430	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofile9XvEHV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57022/devtools/browser/0f024d42-b3e8-4ef5-a2d5-4a8d4177d6b2
+1643487519466	Marionette	INFO	Listening on port 57031
+1643487519736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643487521211	Marionette	INFO	Stopped listening on port 57031
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 9812, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643487559369	geckodriver	INFO	Listening on 127.0.0.1:57085
+1643487562414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57086" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofilewFwXOi"
+1643487562738	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofilewFwXOi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57086/devtools/browser/0863b423-492c-4e72-a9c3-8121d74f79cc
+1643487564449	Marionette	INFO	Listening on port 57092
+1643487564562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643487609562	geckodriver	INFO	Listening on 127.0.0.1:57176
+1643487612614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57177" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileHcWT5S"
+1643487612966	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileHcWT5S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57177/devtools/browser/be2f97ff-d798-4cab-a349-befaa37a7b48
+1643487614874	Marionette	INFO	Listening on port 57183
+1643487615278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qgJV3VdNHF0UKJqll0M35s3ByNUeqPDUArL6SI-1xSU.js line 1 > eval line 2135 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qgJV3VdNHF0UKJqll0M35s3ByNUeqPDUArL6SI-1xSU.js line 1 > eval line 3736 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643487695720	Marionette	INFO	Stopped listening on port 57183
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643487704797	geckodriver	INFO	Listening on 127.0.0.1:57461
+1643487707837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57462" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofile5Khy6m"
+1643487708169	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofile5Khy6m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57462/devtools/browser/bd499d83-1031-4f7a-9ccc-e70ab7fc9b38
+1643487709936	Marionette	INFO	Listening on port 57468
+1643487709988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 215: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 215: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qgJV3VdNHF0UKJqll0M35s3ByNUeqPDUArL6SI-1xSU.js line 1 > eval line 3617 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643488805121	Marionette	INFO	Stopped listening on port 57468
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643539490543	geckodriver	INFO	Listening on 127.0.0.1:62324
+1643539493613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62325" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofile88bxCX"
+1643539494214	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofile88bxCX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62325/devtools/browser/c179c166-8c87-452b-b421-2be220ed3f71
+1643539496094	Marionette	INFO	Listening on port 62331
+1643539496273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 218: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 218: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/oVIaA8DHLQK8xPwSs1vijU2jqi1uqHC3deFYmTpVz9A.js line 1 > eval line 5347 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 218: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 218: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/oVIaA8DHLQK8xPwSs1vijU2jqi1uqHC3deFYmTpVz9A.js line 1 > eval line 4970 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 218: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 218: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/oVIaA8DHLQK8xPwSs1vijU2jqi1uqHC3deFYmTpVz9A.js line 1 > eval line 7107 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 218: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 218: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+1643539524073	Marionette	INFO	Stopped listening on port 62331
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643539867329	geckodriver	INFO	Listening on 127.0.0.1:62732
+1643539870374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62733" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofile6S0lTd"
+1643539870617	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofile6S0lTd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62733/devtools/browser/be8a9cf7-1b3a-4aa7-b99a-74f6527331fa
+1643539872327	Marionette	INFO	Listening on port 62739
+1643539872416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643539880347	Marionette	INFO	Stopped listening on port 62739
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643540016361	geckodriver	INFO	Listening on 127.0.0.1:62872
+1643540019418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62873" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileIj2ks8"
+1643540019664	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileIj2ks8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62873/devtools/browser/2c5099ef-cf21-45c9-8bd3-86171ee0b58a
+1643540021701	Marionette	INFO	Listening on port 62879
+1643540022069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/oVIaA8DHLQK8xPwSs1vijU2jqi1uqHC3deFYmTpVz9A.js line 1 > eval line 3372 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+1643540264643	geckodriver	INFO	Listening on 127.0.0.1:63374
+1643540267693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63375" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileMsDCPb"
+1643540267976	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileMsDCPb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63375/devtools/browser/998c2d68-c7e2-4858-8b3a-dcb138850222
+1643540269750	Marionette	INFO	Listening on port 63381
+1643540269865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+1643540281738	Marionette	INFO	Stopped listening on port 63381
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643540319093	geckodriver	INFO	Listening on 127.0.0.1:63511
+1643540322154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63512" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileZU3qvB"
+1643540322486	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileZU3qvB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63512/devtools/browser/d3e2527d-0e29-487d-9581-ecc95998c499
+1643540324214	Marionette	INFO	Listening on port 63518
+1643540324311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 218: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 218: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/oVIaA8DHLQK8xPwSs1vijU2jqi1uqHC3deFYmTpVz9A.js line 1 > eval line 4510 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/oVIaA8DHLQK8xPwSs1vijU2jqi1uqHC3deFYmTpVz9A.js line 1 > eval line 2503 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643540338481	Marionette	INFO	Stopped listening on port 63518
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643543674539	geckodriver	INFO	Listening on 127.0.0.1:62615
+1643543677587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62616" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileZQJSgH"
+1643543677887	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileZQJSgH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62616/devtools/browser/4bc04dad-7262-4fb3-a6a5-7ac847fb6ded
+1643543679692	Marionette	INFO	Listening on port 62622
+1643543679736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 218: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 218: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643543692320	Marionette	INFO	Stopped listening on port 62622
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643543782165	geckodriver	INFO	Listening on 127.0.0.1:62780
+1643543785204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62781" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileWuNavh"
+1643543785498	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileWuNavh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62781/devtools/browser/0775eb44-58e6-4069-8c8b-56d442e3115b
+1643543787259	Marionette	INFO	Listening on port 62787
+1643543787378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 214: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+1644525560219	geckodriver	INFO	Listening on 127.0.0.1:50888
+1644525563267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50889" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileGZTAZ2"
+1644525563951	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileGZTAZ2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50889/devtools/browser/699a5583-969f-4933-8a89-380992ec4864
+1644525566101	Marionette	INFO	Listening on port 50895
+1644525566470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644525577033	Marionette	INFO	Stopped listening on port 50895
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644525622788	geckodriver	INFO	Listening on 127.0.0.1:50962
+1644525625842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50963" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileIyAbzu"
+1644525626093	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileIyAbzu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50963/devtools/browser/72852de1-64ba-4928-a928-757669fb3292
+1644525627835	Marionette	INFO	Listening on port 50970
+1644525627895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644525676291	Marionette	INFO	Stopped listening on port 50970
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644525715196	geckodriver	INFO	Listening on 127.0.0.1:51075
+1644525718217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51076" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofilepIcEXx"
+1644525718543	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofilepIcEXx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51076/devtools/browser/70c58717-8a07-46e5-b622-c9b480c032c0
+1644525720300	Marionette	INFO	Listening on port 51083
+1644525720387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 224: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 224: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3he9SSTPTzffGJDQBOTZcvp_zoO7E8v038ekVtZ_6Vg.js line 1 > eval line 3610 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644525790089	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1644525793400	Marionette	INFO	Stopped listening on port 51083
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644704194049	geckodriver	INFO	Listening on 127.0.0.1:49162
+1644704197087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49163" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileovtfYF"
+1644704197735	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileovtfYF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49163/devtools/browser/65005e08-9204-48b2-8ab9-533b49e47feb
+1644704199681	Marionette	INFO	Listening on port 49170
+1644704199805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+1644766913591	geckodriver	INFO	Listening on 127.0.0.1:59618
+1644766916646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59619" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileJLuwxj"
+1644766917335	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileJLuwxj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59619/devtools/browser/9dff4527-09d5-46fa-b840-4611a7fa848d
+1644766919401	Marionette	INFO	Listening on port 59628
+1644766919827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 224: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 224: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3he9SSTPTzffGJDQBOTZcvp_zoO7E8v038ekVtZ_6Vg.js line 1 > eval line 801 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644766959243	Marionette	INFO	Stopped listening on port 59628
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644766970168	geckodriver	INFO	Listening on 127.0.0.1:59837
+1644766973210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59838" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileR0B8In"
+1644766973498	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileR0B8In\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59838/devtools/browser/1f39aca0-b14a-4a67-8131-2d0c80a2965d
+1644766975292	Marionette	INFO	Listening on port 59845
+1644766975357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 224: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 224: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3he9SSTPTzffGJDQBOTZcvp_zoO7E8v038ekVtZ_6Vg.js line 1 > eval line 1613 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3he9SSTPTzffGJDQBOTZcvp_zoO7E8v038ekVtZ_6Vg.js line 1 > eval line 3134 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644766999208	Marionette	INFO	Stopped listening on port 59845
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644767348867	geckodriver	INFO	Listening on 127.0.0.1:60379
+1644767351916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60380" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofile13Fzzs"
+1644767352271	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofile13Fzzs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60380/devtools/browser/ceb315d0-ff31-44eb-bb37-e3453a02558b
+1644767354115	Marionette	INFO	Listening on port 60387
+1644767354576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 218: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 218: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3he9SSTPTzffGJDQBOTZcvp_zoO7E8v038ekVtZ_6Vg.js line 1 > eval line 7580 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644767370684	Marionette	INFO	Stopped listening on port 60387
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644767440702	geckodriver	INFO	Listening on 127.0.0.1:60609
+1644767443748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60610" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileOVwRsv"
+1644767444023	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileOVwRsv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60610/devtools/browser/054eaad4-41d6-4f5c-9562-0b62f295c80b
+1644767445656	Marionette	INFO	Listening on port 60618
+1644767445794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3he9SSTPTzffGJDQBOTZcvp_zoO7E8v038ekVtZ_6Vg.js line 1 > eval line 2084 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3he9SSTPTzffGJDQBOTZcvp_zoO7E8v038ekVtZ_6Vg.js line 1 > eval line 6592 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3he9SSTPTzffGJDQBOTZcvp_zoO7E8v038ekVtZ_6Vg.js line 1 > eval line 2383 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644767475569	Marionette	INFO	Stopped listening on port 60618
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644767921691	geckodriver	INFO	Listening on 127.0.0.1:61379
+1644767924736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61380" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofilemy2QI4"
+1644767924995	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofilemy2QI4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61380/devtools/browser/b0ef153a-d66b-401f-8386-dbdbd4906fcf
+1644767926682	Marionette	INFO	Listening on port 61390
+1644767926784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+1644767950308	Marionette	INFO	Stopped listening on port 61390
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644767972782	geckodriver	INFO	Listening on 127.0.0.1:61524
+1644767975825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61525" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofilehUQdPz"
+1644767976068	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofilehUQdPz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61525/devtools/browser/f6e3486e-e91d-45d5-a234-c23a79336a1d
+1644767977652	Marionette	INFO	Listening on port 61534
+1644767977883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3he9SSTPTzffGJDQBOTZcvp_zoO7E8v038ekVtZ_6Vg.js line 1 > eval line 603 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644767998302	Marionette	INFO	Stopped listening on port 61534
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644768676464	geckodriver	INFO	Listening on 127.0.0.1:63016
+1644768679509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63017" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileRrZZl3"
+1644768679764	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileRrZZl3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63017/devtools/browser/59f4b6f7-eac6-42ee-8011-4d72a9889dcf
+1644768681638	Marionette	INFO	Listening on port 63025
+1644768681675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3he9SSTPTzffGJDQBOTZcvp_zoO7E8v038ekVtZ_6Vg.js line 1 > eval line 4609 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3he9SSTPTzffGJDQBOTZcvp_zoO7E8v038ekVtZ_6Vg.js line 1 > eval line 3993 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644768705695	Marionette	INFO	Stopped listening on port 63025
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644854357006	geckodriver	INFO	Listening on 127.0.0.1:60689
+1644854360078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60690" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofilecVfz4l"
+1644854360978	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofilecVfz4l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60690/devtools/browser/7c418fab-7403-4773-9d60-c62b735b1ebe
+1644854363379	Marionette	INFO	Listening on port 60699
+1644854363774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644854392276	Marionette	INFO	Stopped listening on port 60699
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644854412841	geckodriver	INFO	Listening on 127.0.0.1:60858
+1644854415878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60859" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofile6PAvdE"
+1644854416226	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofile6PAvdE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60859/devtools/browser/376b7a3a-17a8-42e2-891d-618c8ecfe1ff
+1644854417932	Marionette	INFO	Listening on port 60865
+1644854418033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644854434530	Marionette	INFO	Stopped listening on port 60865
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644854474397	geckodriver	INFO	Listening on 127.0.0.1:61030
+1644854477452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61031" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofilekVlL8N"
+1644854477734	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofilekVlL8N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61031/devtools/browser/54abc49c-756d-43e4-a2db-5054c08cf821
+1644854479636	Marionette	INFO	Listening on port 61040
+1644854480118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 222: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 223: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+1644854498479	Marionette	INFO	Stopped listening on port 61040
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644854624712	geckodriver	INFO	Listening on 127.0.0.1:63929
+1644854627754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63930" "-no-remote" "-profile" "C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileI5kMU8"
+1644854628169	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sober\\AppData\\Local\\Temp\\rust_mozprofileI5kMU8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63930/devtools/browser/3625a411-f9d9-42cf-8c2d-20f04cfd4230
+1644854629807	Marionette	INFO	Listening on port 63936
+1644854629905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 224: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 224: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 224: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 224: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 224: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 224: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 224: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 224: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 224: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 224: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+1644854689003	Marionette	INFO	Stopped listening on port 63936
