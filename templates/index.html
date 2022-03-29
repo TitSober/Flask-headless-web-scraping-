@@ -1,0 +1,51 @@
+{%extends 'base.html'%}
+
+
+{% block title %}
+
+<title>Control panel</title>
+
+{% endblock %}
+
+
+{% block body %}
+<div class="container border border-1 mt-2">
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Ime</th>
+      <th scope="col">Link</th>
+      <th scope="col">Opis</th>
+      <th scope="col">Email</th>
+      <th scope="col">Status</th>
+      <th scope="col">Delete</th>
+      <th scope="col">Run</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    {% for el in monitor %}
+      <tr>
+          <td>{{ el.name }}</td>
+          <td><a target=="_blank" class="btn btn-primary" href="{{ el.url }}">Link to site</a></td>
+          <td>{{ el.description }}</td> 
+          <td>{{ el.email }}</td>
+          <td>{% if el.status == 1 %} 
+                Active
+              {% else %}
+              Not running
+              {% endif %}</td> 
+          <td><a href="delete?id={{ el.id }}" class="btn btn-danger ">Delete</a></td> 
+          <td><a href="run?id={{ el.id }}" class="btn btn-primary ">Run</a></td> 
+          
+
+      </tr>
+      {% endfor %}
+  </tbody>
+
+
+</table>
+</div>
+
+
+{% endblock %}

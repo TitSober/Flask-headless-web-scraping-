@@ -9,12 +9,13 @@ def sendMail(receipient,site):
     mail=smtplib.SMTP('smtp.gmail.com',587)
     mail.ehlo()
     mail.starttls()
-    sender='pythonanytime@gmail.com'
+    sender='avtonetscraper@gmail.com'
     
-    mail.login('email@site.com','geslo')
+    mail.login('avtonetscraper@gmail.com','hhaalloo123')
 
     header='To:'+receipient+'\n'+'From:'\
     +sender+'\n'+'subject:Novo obvestilo\n'
-    content=header+content
+    content = header+content
     mail.sendmail(sender,receipient, content)
     mail.close()
+sendMail("gbrudar@gmail.com","test")

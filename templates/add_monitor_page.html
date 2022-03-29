@@ -1,0 +1,38 @@
+{%extends 'base.html'%}
+
+
+
+{% block title %}
+<title>Add monitor</title>
+{% endblock %}
+
+{% block body %}
+<div class="container mt-2 border border-disabled border-1 rounded pb-1">
+    <form action="index.html" method="post">
+        <div class="mb-3">
+            <label for="url" class="form-label">Url</label>
+            <input type="text" name="url" class="form-control">
+        </div>
+        <div class="mb-3">
+            <label for="ime" class="form-label">Ime strani</label>
+            <input type="text" name="ime" class="form-control">
+        </div>
+        <div class="mb-3">
+            <label for="opis" class="form-label">Opis</label>
+            <input type="text" name="opis" class="form-control">
+        </div>
+        <div class="mb-3">
+            <label for="email" class="form-label">Email</label>
+            <input type="text" name="email" class="form-control">
+        </div>
+        <div class="mb-3"> 
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+        
+        
+        
+
+    </form>
+</div>
+
+{% endblock %}
